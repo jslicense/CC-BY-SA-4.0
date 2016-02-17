@@ -1,7 +1,7 @@
 {
   "name": "cc-by-sa-4.0",
   "description": "Plaintext of the Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0) license from blog.creativecommons.org",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "files": [
     "README.md",
     "CC-BY-SA-4.0.json",
